@@ -1,0 +1,19 @@
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: ''
+
+menu:
+- {name: 'Violinist &nbsp | &nbsp Music Creator', path: '.', url: 'index.html'}
+
+social:
+- {icon: 'spotify', link: 'https://www.github.com/krln-gbl'}
+- {icon: 'instagram', link: 'https://www.github.com/krln-gbl'}
+
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+sharing_button_prompt: 'Feel free to share!'
+related_posts: 'You may also enjoy:'
+post_date_prefix: 'Written on'
