@@ -8,8 +8,8 @@ menu:
 - {name: 'Violinist &nbsp | &nbsp Music Creator', path: '.', url: 'index.html'}
 
 social:
-- {icon: 'spotify', link: 'https://www.github.com/krln-gbl'}
-- {icon: 'instagram', link: 'https://www.github.com/krln-gbl'}
+- {icon: 'spotify', link: 'https://www.instagram.com/karoliinagabel'}
+- {icon: 'instagram', link: 'https://www.instagram.com/karoliinagabel'}
 
 pagination:
   next_page: 'Newer'
