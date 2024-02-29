@@ -8,8 +8,10 @@ menu:
 - {name: 'Violinist &nbsp | &nbsp Music Creator', path: '.', url: 'index.html'}
 
 social:
-- {icon: 'spotify', link: 'https://www.instagram.com/karoliinagabel'}
+- {icon: 'spotify', link: 'https://open.spotify.com/artist/1RbjHDUInleDZjB2xj1bCM'}
 - {icon: 'instagram', link: 'https://www.instagram.com/karoliinagabel'}
+- {icon: 'youtube', link: 'https://www.youtube.com/watch?v=_hqvpwEUIA0&list=OLAK5uy_m8x9gu76vJ1Dda_-jGjzhcO-xctWZ9c9A'}
+- {icon: 'apple', link: 'https://music.apple.com/us/album/lambent-single/1732677842'}
 
 pagination:
   next_page: 'Newer'
