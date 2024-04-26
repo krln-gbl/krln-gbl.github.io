@@ -11,7 +11,7 @@ social:
 - {icon: 'spotify', link: 'https://open.spotify.com/artist/1RbjHDUInleDZjB2xj1bCM'}
 - {icon: 'instagram', link: 'https://www.instagram.com/karoliinagabel'}
 - {icon: 'apple', link: 'https://music.apple.com/za/artist/karoliina-gabel/1732677238'}
-- {icon: 'youtube', link: 'https://www.youtube.com/watch?v=_hqvpwEUIA0&list=OLAK5uy_m8x9gu76vJ1Dda_-jGjzhcO-xctWZ9c9A'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCR_MfeH88LUauwntuDxR_dA'}
 
 pagination:
   next_page: 'Newer'
